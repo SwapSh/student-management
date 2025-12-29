@@ -1,0 +1,30 @@
+{
+  "name": "student-management-frontend",
+  "version": "1.0.0",
+  "description": "A frontend application for managing student information.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'Test step not defined'"
+  },
+  "keywords": [
+    "student",
+    "management",
+    "frontend"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/yourusername/student-management-frontend",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/student-management-frontend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/student-management-frontend/issues"
+  }
+}
